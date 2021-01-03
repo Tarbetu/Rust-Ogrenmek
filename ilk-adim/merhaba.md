@@ -12,7 +12,7 @@ fn main() {
 
 * Yukarıdaki kodu uzantısı `.rs` olacak şekilde dilediğiniz bir isimle kaydedebilirsiniz. Ancak şimdilik burada örnekleyebilmek amacıyla *merhaba.rs* olarak değerlendirilecektir. 
 * Dosyayı `rustc merhaba.rs` komutuyla derleyin.
-* Programınızı Linux veya Mac kullanıyırsanız `./merhaba` Windows kullanıyorsanız `merhaba.exe` komutuyla çalıştırın.
+* Programınızı Linux veya Mac kullanıyorsanız `./merhaba` Windows kullanıyorsanız `merhaba.exe` komutuyla çalıştırın.
 
 ### Rust Playground
 Rust kodlarınızı internet üzerinde [çevrim içi](https://play.rust-lang.org/) çalıştırabileceğiniz bir alandır.
